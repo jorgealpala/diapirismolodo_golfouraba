@@ -1,0 +1,11 @@
+# === Datos originales pesados (NO se publican en GitHub por tamaño) ===
+# Fotos originales de celular/dron y videos (>100 MB). El visor usa las
+# miniaturas en VISOR/thumbs/. Para datos completos, ver almacenamiento interno UNGRD-SCR.
+DATOS/
+
+# === Archivos de sistema / temporales ===
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*~
