@@ -24,6 +24,14 @@ El visor integra, para cada volcán:
 - **Selector de volcanes** para enfocar cada sitio.
 - Capas base de **Esri** (satélite, topográfico, calles) y leyenda.
 
+### Herramientas de edición cartográfica
+
+- **Dibujar** polígonos, líneas, rectángulos, círculos y puntos.
+- **Medir** automáticamente distancias (líneas) y áreas/perímetros (polígonos).
+- **Editar y borrar** cualquier dibujo (barra de herramientas del mapa).
+- **Anotaciones de texto** sobre el mapa.
+- **Exportar a PNG y PDF** (con los dibujos y un encabezado institucional) e **Imprimir**.
+
 Sitios incluidos:
 
 | Volcán | Municipio | Fecha |

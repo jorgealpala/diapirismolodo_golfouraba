@@ -3,6 +3,10 @@
 # miniaturas en VISOR/thumbs/. Para datos completos, ver almacenamiento interno UNGRD-SCR.
 DATOS/
 
+# === Copias de respaldo ===
+*copia*
+* - copy*
+
 # === Archivos de sistema / temporales ===
 Thumbs.db
 desktop.ini
