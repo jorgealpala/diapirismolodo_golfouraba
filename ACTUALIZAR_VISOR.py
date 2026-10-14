@@ -58,6 +58,11 @@ SITES = {
                       vereda='Vda. El Volcán', correg='',
                       fecha='12-oct-2026', color='#19c37d',
                       kuula=[{'t':'360','url':'https://kuula.co/share/collection/7dPdG?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1'}])),
+ 'LC': dict(dir='20261013_VOLCANLASCHANGAS',
+            meta=dict(nombre='Volcán Las Changas', municipio='Necoclí',
+                      vereda='Vda. Las Changas', correg='',
+                      fecha='13-oct-2026', color='#0cc0df',
+                      kuula=[{'t':'360','url':'https://kuula.co/share/collection/7dY5N?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1'}])),
 }
 # ---------------------------------------------------------------------------
 

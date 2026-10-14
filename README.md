@@ -38,6 +38,7 @@ Sitios incluidos:
 |---|---|---|
 | Volcán Puerto López | Turbo (Vda. Puerto López) | 11-oct-2026 |
 | El Volcán | Necoclí (Vda. El Volcán) | 12-oct-2026 |
+| Volcán Las Changas | Necoclí (Vda. Las Changas) | 13-oct-2026 |
 
 > Datum **WGS84 (EPSG:4326)**.
 
